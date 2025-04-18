@@ -1,0 +1,58 @@
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+
+### Logs ###
+*.log
+
+### IDEs ###
+/.idea/
+/*.iml
+*.ipr
+*.iws
+.vscode/
+
+### Maven ###
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+### OS Files ###
+.DS_Store
+Thumbs.db
+
+### IntelliJ ###
+*.iml
+out/
+.idea/
+
+### Eclipse ###
+.classpath
+.project
+.settings/
+
+### Build ###
+target/
+bin/
+build/
+
+### Environment ###
+.env
+*.env
+
+### Others ###
+/*.db
+*.swp
+*.bak
+*.tmp
+
+### Spring Boot ###
+/logs/
+/*.h2.db
+*.mv.db
+*.trace.db
+
+### Lombok ###
+*.lombok.log
