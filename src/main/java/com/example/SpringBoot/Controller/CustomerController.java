@@ -1,5 +1,6 @@
-package com.example.SpringBoot;
+package com.example.SpringBoot.Controller;
 
+import com.example.SpringBoot.Model.Customer;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;

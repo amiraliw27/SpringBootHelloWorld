@@ -1,4 +1,4 @@
-package com.example.SpringBoot;
+package com.example.SpringBoot.Model;
 
 public class Customer {
     private long id;
